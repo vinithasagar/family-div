@@ -1,0 +1,44 @@
+#v
+{
+    width: 190px;
+    height: 190px;
+    border-radius: 30px;
+    color: #915f5f;
+    background-color: #DBB5B5;
+    vertical-align: top;
+    display: inline-block;
+    border-inline-end: 20px;
+    
+}
+    
+#main{
+    height: 180px;
+}
+#i
+{
+    width: 180px;
+    height: 180px;
+    border-radius: 30px;
+    color:#915f5f;
+    background-color:#DBB5B5;
+    vertical-align: top;
+    display: inline-block;
+    padding-top: 20px;
+    margin-top: 30px;
+    border-inline-end: 20px;
+}
+#n
+{
+    width: 180px;
+    height: 180px;
+    border-radius: 30px;
+    color: #915f5f;
+    background-color: #DBB5B5;
+    padding-top: 30px;
+    vertical-align: top;
+    display: inline-block;
+    padding-top: 20px;
+    margin-top: 70px;
+    border-inline-end: 20px;
+
+}
